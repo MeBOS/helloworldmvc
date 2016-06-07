@@ -22,4 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>controller</module>
+  	<module>model</module>
+  	<module>View</module>
+  	<module>Contract</module>
+  </modules>
 </project>
